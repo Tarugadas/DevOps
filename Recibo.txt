@@ -1,0 +1,6 @@
+{
+    "Nombre": "Efren Aaron",
+    "Accion": "Retiro",
+    "Monto": 1500.0,
+    "Saldo_resultante": 23500.0
+}
